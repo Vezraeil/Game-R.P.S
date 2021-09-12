@@ -2,5 +2,5 @@
 
 coded by ezraril ...
 
-pip install pyfiglet
-
+- pip install pyfiglet
+- pip install colorama
